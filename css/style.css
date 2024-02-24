@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Micro+5&display=swap');
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+.ridok {
+    display: flex;
+}
+.items{
+    margin: 0 auto;
+}
+header {
+    display: flex;
+}
+.title {
+    font-family: "Micro 5", sans-serif;
+    text-align: left;
+}
+.item {
+    width: 360px;
+    height: 350px;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+.rozdi{
+    margin: 0 5px;
+}
+.nav {
+    text-decoration: none;
+}
+.navcontainer {
+    margin-left: 300px;
+}
+.buy {
+    font-family: "Anta", sans-serif;
+    color: rgb(0, 255, 102);
+}
+.subbuy {
+    text-decoration: none;
+}
+.text {
+    text-align: center;
+}
+.item:nth-child(2){
+    margin-left: 50px;
+}
+.item:nth-child(4){
+    margin-left: 50px;
+}
+.ridok:nth-child(2){
+    margin-top: 25px;
+}
