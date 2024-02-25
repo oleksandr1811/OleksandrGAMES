@@ -51,3 +51,15 @@ header {
 .ridok:nth-child(2){
     margin-top: 25px;
 }
+.ridok:nth-child(4){
+    margin-top: 25px;
+}
+.ridok:nth-child(3){
+    margin-top: 25px;
+}
+.item:nth-child(6){
+    margin-left: 50px;
+}
+.item:nth-child(8){
+    margin-left: 50px;
+}
